@@ -1,0 +1,367 @@
+date,weather,tempHigh,tempLow
+1,Partly cloudy.,20,10
+2,Partly cloudy.,20,9
+3,Partly cloudy.,18,10
+4,Broken clouds.,20,20
+5,Partly cloudy.,23,12
+6,Partly cloudy.,21,12
+7,Snow flurries. Passing clouds.,20,14
+8,Partly cloudy.,15,14
+9,Partly cloudy.,19,11
+10,Partly cloudy.,21,10
+11,Partly cloudy.,22,10
+12,Partly cloudy.,23,10
+13,Snow flurries. Dense fog.,21,16
+14,Partly cloudy.,16,14
+15,Partly cloudy.,13,12
+16,Partly cloudy.,12,12
+17,Partly cloudy.,16,11
+18,Partly cloudy.,17,8
+19,Partly cloudy.,13,11
+20,Partly cloudy.,12,11
+21,Partly cloudy.,12,9
+22,Partly cloudy.,14,8
+23,Snow flurries. Passing clouds.,17,8
+24,Partly cloudy.,11,8
+25,Partly cloudy.,7,7
+26,Partly cloudy.,15,10
+27,Partly cloudy.,20,10
+28,Partly cloudy.,20,10
+29,Partly cloudy.,22,13
+30,Thunderstorms. Fog.,23,23
+31,Partly cloudy.,20,16
+32,Clear.,22,20
+33,Sunny.,21,19
+34,Sunny.,20,20
+35,Clear.,23,21
+36,No weather data available,,
+37,No weather data available,,
+38,Light snow. Overcast.,21,20
+39,Clear.,23,21
+40,No weather data available,,
+41,Clear.,26,24
+42,Partly cloudy.,26,24
+43,Partly cloudy.,26,24
+44,Partly cloudy.,21,20
+45,Clear.,24,23
+46,Light snow. Overcast.,23,21
+47,Sunny.,24,23
+48,Clear.,24,24
+49,Passing clouds.,23,21
+50,Snow showers. Ice fog.,29,27
+51,Fog.,28,26
+52,Clear.,25,25
+53,Partly cloudy.,27,26
+54,Partly cloudy.,29,28
+55,Rain showers. Fog.,30,28
+56,Partly cloudy.,30,27
+57,Partly cloudy.,30,29
+58,Rain showers. Fog.,30,28
+59,Rain showers. Fog.,30,27
+60,Rain showers. Fog.,29,29
+60,Rain. Overcast.,29,17
+61,Scattered clouds.,29,17
+62,No weather data available,,
+63,,30,30
+64,Sunny.,26,26
+65,Scattered clouds.,24,17
+66,Overcast.,28,28
+67,Overcast.,26,26
+68,Scattered clouds.,26,19
+69,Overcast.,28,28
+70,Scattered clouds.,28,21
+71,Scattered clouds.,26,20
+72,Overcast.,25,25
+73,Light snow. Partly cloudy.,24,18
+74,Sunny.,27,27
+75,,27,27
+76,Fog.,30,30
+77,Scattered clouds.,22,22
+78,Low clouds.,30,23
+79,Scattered clouds.,29,22
+80,Light rain. Overcast.,30,23
+81,No weather data available,,
+82,Overcast.,29,21
+83,Low clouds.,33,33
+84,Low clouds.,33,25
+85,Fog.,27,27
+86,,28,28
+87,Partly cloudy.,29,22
+88,No weather data available,,
+89,No weather data available,,
+90,No weather data available,,
+91,Sprinkles. Low clouds.,37,36
+92,Overcast.,39,37
+93,Overcast.,39,37
+94,Overcast.,38,37
+95,Overcast.,35,34
+96,Overcast.,36,35
+97,Overcast.,35,35
+98,Sprinkles. Low clouds.,34,34
+99,Broken clouds.,36,36
+100,Overcast.,36,35
+101,Broken clouds.,35,34
+102,Broken clouds.,34,34
+103,Broken clouds.,38,37
+104,Broken clouds.,39,38
+105,Overcast.,39,39
+106,Overcast.,42,41
+107,Overcast.,40,39
+108,Overcast.,39,39
+109,Overcast.,40,39
+110,Sprinkles. Low clouds.,38,38
+111,Overcast.,38,38
+112,No weather data available,,
+113,Broken clouds.,36,36
+114,Broken clouds.,37,36
+115,Sprinkles. Low clouds.,39,37
+116,Overcast.,40,37
+117,Snow flurries. Overcast.,37,37
+118,Light rain. Partly sunny.,40,39
+119,Broken clouds.,40,38
+120,Broken clouds.,39,38
+121,Partly cloudy.,39,28
+122,No weather data available,,
+123,Mostly cloudy.,37,34
+124,Scattered showers. Partly sunny.,38,32
+125,Partly sunny.,33,27
+126,Clear.,35,28
+127,Scattered clouds.,35,30
+128,Partly cloudy.,38,31
+129,Clear.,35,30
+130,Rain showers. Fog.,37,31
+131,Scattered clouds.,33,27
+132,Partly cloudy.,37,31
+133,Partly cloudy.,39,34
+134,Partly cloudy.,39,32
+135,Partly cloudy.,41,34
+136,Partly cloudy.,40,34
+137,Partly cloudy.,40,34
+138,Partly cloudy.,42,35
+139,Partly cloudy.,39,33
+140,Partly cloudy.,38,33
+141,Partly cloudy.,38,32
+142,Partly cloudy.,38,32
+143,Rain showers. Fog.,37,34
+144,Snow showers. Ice fog.,32,32
+145,Partly sunny.,37,29
+146,Partly cloudy.,37,30
+147,Mostly cloudy.,40,34
+148,Partly cloudy.,38,35
+149,Passing clouds.,32,28
+150,Snow flurries. Ice fog.,26,23
+151,Passing clouds.,36,29
+152,Thundershowers. Passing clouds.,37,31
+153,Thundershowers. Passing clouds.,40,34
+154,Thundershowers. Passing clouds.,40,34
+155,Thundershowers. Passing clouds.,41,35
+156,Thundershowers. Passing clouds.,38,33
+157,Thundershowers. Passing clouds.,38,34
+158,Clear.,38,32
+159,Thundershowers. Passing clouds.,38,33
+160,Light snow. Overcast.,38,32
+161,Thundershowers. Passing clouds.,38,32
+162,Scattered clouds.,33,30
+163,Light snow. Overcast.,37,32
+164,Light rain. Mostly cloudy.,39,34
+165,Scattered clouds.,32,30
+166,Light rain. Mostly cloudy.,36,34
+167,Partly cloudy.,34,30
+168,Partly cloudy.,36,31
+169,Clear.,38,33
+170,Thundershowers. Passing clouds.,37,33
+171,Sunny.,38,34
+172,Light rain. Mostly cloudy.,35,30
+173,Mostly cloudy.,35,30
+174,Light snow. Overcast.,33,28
+175,Thundershowers. Passing clouds.,37,33
+176,Clear.,38,33
+177,Light snow. Overcast.,37,32
+178,Sprinkles. Mostly cloudy.,37,32
+179,Thunderstorms. Fog.,29,26
+180,Sprinkles. Mostly cloudy.,37,32
+181,Clear.,38,34
+182,Clear.,34,31
+183,Clear.,29,28
+184,Fog.,30,28
+185,Clear.,30,28
+186,Clear.,35,31
+187,Clear.,34,30
+188,Clear.,34,31
+189,Sunny.,33,31
+190,Rain. More clouds than sun.,34,31
+191,Passing clouds.,35,31
+192,Clear.,31,29
+193,Light rain. Passing clouds.,33,29
+194,Rain. More clouds than sun.,34,31
+195,Clear.,31,30
+196,Clear.,32,29
+197,Light rain. Passing clouds.,26,25
+198,Freezing rain. Cloudy.,29,27
+199,Light rain. Passing clouds.,29,25
+200,Clear.,33,29
+201,Passing clouds.,35,32
+202,Passing clouds.,35,31
+203,Passing clouds.,35,32
+204,Fog.,33,29
+205,Clear.,33,30
+206,Rain. More clouds than sun.,33,31
+207,Clear.,34,31
+208,Clear.,29,29
+209,Low clouds.,32,28
+210,Clear.,28,28
+211,Light rain. Passing clouds.,29,27
+212,Clear.,30,28
+213,Ice fog.,29,28
+214,Mild.,32,28
+215,Mild.,33,29
+216,Mild.,34,31
+217,Sunny.,34,32
+218,Mild.,31,28
+219,Mild.,35,30
+220,Sunny.,50,31
+221,Mild.,33,30
+222,Mild.,33,30
+223,Haze.,29,27
+224,Mild.,33,28
+225,Mild.,32,28
+226,Ice fog.,29,27
+227,Mild.,33,29
+228,Fog.,33,29
+229,Mild.,31,28
+230,Mild.,30,28
+231,Mild.,34,29
+232,Mild.,34,30
+233,Mild.,33,28
+234,Mild.,34,28
+235,Mild.,32,30
+236,Overcast.,32,29
+237,Mild.,33,29
+238,Mild.,33,29
+239,Mild.,32,28
+240,Sprinkles. Low clouds.,35,30
+241,Mild.,33,29
+242,Mild.,29,28
+243,Haze.,27,25
+244,Overcast.,27,26
+245,Overcast.,32,28
+246,Fog.,32,28
+247,Fog.,32,28
+248,Overcast.,32,27
+249,Scattered clouds.,32,28
+250,Chilly.,32,27
+251,Fog.,32,29
+252,Fog.,28,28
+253,Fog.,33,29
+254,Passing clouds.,33,28
+255,Fog.,33,28
+256,Fog.,34,29
+257,Overcast.,33,28
+258,Overcast.,34,29
+259,Overcast.,34,29
+260,Overcast.,33,29
+261,Overcast.,35,29
+262,Overcast.,34,29
+263,Overcast.,35,29
+264,Overcast.,35,29
+265,Overcast.,31,27
+266,Overcast.,32,27
+267,Overcast.,32,29
+268,Overcast.,33,28
+269,Fog.,33,29
+270,Overcast.,34,28
+271,Overcast.,34,28
+272,More clouds than sun.,34,34
+273,Chilly.,34,29
+274,More clouds than sun.,35,28
+275,Heavy rain. Mostly cloudy.,34,31
+276,Light rain. Partly sunny.,34,30
+277,More clouds than sun.,34,30
+278,More clouds than sun.,29,27
+279,More clouds than sun.,31,28
+280,More clouds than sun.,33,27
+281,More clouds than sun.,26,26
+282,More clouds than sun.,33,25
+283,Snow flurries. Passing clouds.,31,26
+284,Partly sunny.,32,24
+285,Frigid.,32,26
+286,Frigid.,32,25
+287,Frigid.,32,23
+288,Passing clouds.,31,22
+289,Frigid.,32,23
+290,Frigid.,32,22
+291,Frigid.,32,22
+292,Frigid.,32,22
+293,Frigid.,32,22
+294,Frigid.,32,25
+295,Frigid.,32,25
+296,Passing clouds.,30,23
+297,Passing clouds.,30,23
+298,Scattered clouds.,30,24
+299,Passing clouds.,30,22
+300,Partly sunny.,30,20
+301,Passing clouds.,29,20
+302,Partly sunny.,30,18
+303,Partly sunny.,29,18
+304,Partly sunny.,27,19
+305,Fog.,28,18
+306,Rain. Overcast.,26,18
+307,No weather data available,,
+308,Fog.,28,18
+309,Fog.,24,18
+310,Partly sunny.,24,15
+311,Partly sunny.,26,16
+312,Fog.,25,18
+313,Partly sunny.,26,14
+314,Clear.,27,15
+315,Partly sunny.,27,15
+316,Partly sunny.,27,15
+317,Fog.,28,17
+318,Fog.,28,17
+319,Partly sunny.,25,14
+320,Partly sunny.,25,14
+321,Chilly.,25,16
+322,Quite cool.,24,15
+323,Partly sunny.,24,13
+324,Partly sunny.,26,14
+325,Partly sunny.,27,14
+326,Clear.,27,16
+327,Partly sunny.,26,15
+328,Partly sunny.,26,13
+329,Clear.,26,16
+330,Clear.,27,20
+331,Clear.,26,17
+332,Clear.,25,17
+333,Partly sunny.,25,12
+334,Sunny.,21,16
+335,Overcast.,22,16
+336,Low clouds.,22,13
+337,Low clouds.,23,14
+338,Low clouds.,23,11
+339,Low clouds.,23,11
+340,Low clouds.,22,12
+341,Overcast.,20,13
+342,Overcast.,20,9
+343,Low clouds.,23,10
+344,Overcast.,17,13
+345,Low clouds.,21,13
+346,Low clouds.,25,13
+347,Low clouds.,24,12
+348,Low clouds.,20,13
+349,Low clouds.,20,12
+350,Low clouds.,21,8
+351,Low clouds.,19,11
+352,Low clouds.,19,10
+353,Low clouds.,19,9
+354,Low clouds.,20,13
+355,Low clouds.,21,13
+356,Low clouds.,20,10
+357,Low clouds.,20,9
+358,Overcast.,19,9
+359,Low clouds.,14,13
+360,Low clouds.,19,11
+361,Low clouds.,20,11
+362,Low clouds.,21,10
+363,Low clouds.,17,11
+364,Low clouds.,14,11
+365,Low clouds.,16,16

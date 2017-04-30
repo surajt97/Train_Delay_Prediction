@@ -1,0 +1,32 @@
+date,weather,tempHigh,tempLow
+60,Rain. Overcast.,35,25
+61,Rain. Overcast.,34,27
+62,Rain. Overcast.,34,28
+63,Light rain. Passing clouds.,29,25
+64,Smoke.,34,26
+65,,32,25
+66,Thunderstorms. Fog.,31,25
+67,Smoke.,33,25
+68,Scattered clouds.,33,26
+69,Rain. Overcast.,34,25
+70,Sunny.,36,26
+71,Thunderstorms. Fog.,32,26
+72,Sunny.,30,26
+73,Sunny.,29,24
+74,Drizzle. Partly sunny.,31,25
+75,,31,25
+76,Drizzle. Partly sunny.,30,25
+77,,31,25
+78,Rain. Overcast.,36,27
+79,Rain. Overcast.,36,28
+80,Rain. Overcast.,37,27
+81,Scattered clouds.,33,26
+82,Rain. Overcast.,37,27
+83,,31,27
+84,Sunny.,32,27
+85,,32,27
+86,Light rain. Broken clouds.,35,28
+87,Rain. Overcast.,36,28
+88,Rain. Overcast.,34,27
+89,Smoke.,33,27
+90,,33,26

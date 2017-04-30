@@ -1,0 +1,30 @@
+date,weather,tempHigh,tempLow
+32,Clear.,22,20
+33,Sunny.,21,19
+34,Sunny.,20,20
+35,Clear.,23,21
+36,No weather data available,,
+37,No weather data available,,
+38,Light snow. Overcast.,21,20
+39,Clear.,23,21
+40,No weather data available,,
+41,Clear.,26,24
+42,Partly cloudy.,26,24
+43,Partly cloudy.,26,24
+44,Partly cloudy.,21,20
+45,Clear.,24,23
+46,Light snow. Overcast.,23,21
+47,Sunny.,24,23
+48,Clear.,24,24
+49,Passing clouds.,23,21
+50,Snow showers. Ice fog.,29,27
+51,Fog.,28,26
+52,Clear.,25,25
+53,Partly cloudy.,27,26
+54,Partly cloudy.,29,28
+55,Rain showers. Fog.,30,28
+56,Partly cloudy.,30,27
+57,Partly cloudy.,30,29
+58,Rain showers. Fog.,30,28
+59,Rain showers. Fog.,30,27
+60,Rain showers. Fog.,29,29
