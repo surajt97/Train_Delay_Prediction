@@ -1,2 +1,3 @@
 # Train-delay-prediction
-Train delay time prediction
+Predicts the train delay time
+
